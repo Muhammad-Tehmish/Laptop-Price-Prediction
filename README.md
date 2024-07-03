@@ -19,4 +19,4 @@ This project predicts the prices of laptops using machine learning regression mo
 5. Model Selection and Training
 6. Model Evaluation (MSE, RMSE, MAE)
 7. Cross-Validation
-8. New Prediction
+8. New Predictions
